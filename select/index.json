@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "旅は道連れ",
+  "base_artist": "Official髭男dism",
+  "createdAt": "2025-12-07T11:26:49.224016Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "旅は道連れ",
+      "artist": "Official髭男dism",
+      "has_synced": false,
+      "path": "select/pl_01_旅は道連れ_Official髭男dism.txt"
+    }
+  ]
+}
